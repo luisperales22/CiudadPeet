@@ -11,7 +11,7 @@ class DetalleActivity : AppCompatActivity() {
         setContentView(R.layout.activity_detalle)
 
 
-        val btnAceptar = findViewById<Button>(R.id.btnAceptarTrabajo)
+        val btnAceptar = findViewById<Button>(R.id.btnDetalleAceptar)
 
 
         btnAceptar.setOnClickListener {

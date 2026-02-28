@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_muro"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Muro" />
+    <item
+        android:id="@+id/nav_mensajes"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Mensajes" />
+    <item
+        android:id="@+id/nav_favoritos"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Favoritos" />
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Perfil" />
+</menu>

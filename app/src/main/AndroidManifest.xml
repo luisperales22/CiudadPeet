@@ -12,6 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CiudadPeet">
         <activity
+            android:name=".MensajesActivity"
+            android:exported="false"
+            android:theme="@style/Theme.CiudadPeet" />
+        <activity
+            android:name=".PerfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FavoritosActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetalleActivity"
             android:exported="false" />
         <activity
